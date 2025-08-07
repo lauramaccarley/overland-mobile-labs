@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-spruce: #024758;
+  --color-blue-spruce-dark: #01323c;
+  --color-cascadian: #10B2AA;
+  --color-sand: #EDEBE7;
+  --color-pacific-sunset: #F78F20;
+  --color-primary: #10B2AA;
+  --color-secondary: #024758;
+  --color-accent: #F78F20;
+  --font-family-sans: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
+}
+
+
+/* Typography styles */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+
+
